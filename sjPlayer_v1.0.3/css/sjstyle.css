@@ -1,0 +1,54 @@
+/*
+ * sjPlayer
+ * http://codecanyon.net/user/igor_s
+ *
+ * By Igor Simic
+ * based on jPlayer by happyworm http://jplayer.org/
+ *
+*/
+
+/*sjplayer container*/
+.cp-jplayershortcode,.cp-jplayerwidget{
+	display: block;
+	margin: 0 auto;
+	/*font-family: 'Open Sans',sans-serif;*/
+    /*font-size: 10px;*/
+
+}
+.cp-jplayershortcode{
+	margin:5px;
+}
+/*sjPlayer widget wrapper*/
+.cp-jplayerwidget {
+    color: #595959;
+    display: inline-block;
+    margin: 0 auto;
+    width: 100%;
+}
+
+/* unordered list containing with maximum3 li element: jplayer, title and description*/
+.sj-player-display {
+	
+	margin:0px;
+	padding: 0px;
+}
+
+/*style  li*/
+.sj-player-display li{
+	list-style: none;
+	display: block;
+	width: 100%;s
+}
+/*style  for title and description*/
+.sj-player-display li p{
+	 
+	padding: 0px;
+	margin: 0px;
+}
+
+.sj-player-display-title{
+	 /*float:left; */
+	 clear:both;
+}
+
+
