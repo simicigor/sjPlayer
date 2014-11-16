@@ -3,6 +3,11 @@ sjPlayer
 
 Wordpress plugin based on jplayer.org
 
+How to videos:
+
+https://www.youtube.com/watch?v=WZKzyH9Zrz0
+
+https://www.youtube.com/watch?v=pVUhdEpCang
 
 
 sjPlayer is WordPress plugin created to play audio files from your wordpress media. It also can be used as a  audio live stream player as you can see on right of this page. This player work also on Android or iOS based devices.
